@@ -6,7 +6,7 @@ package student;
 //added comment here for fetch+merge
 /**
  *
- * @author kchahal
+ * @author kchahall
  */
 import java.util.*;
 import java.util.Scanner;
