@@ -3,10 +3,10 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package student;
-
+//added comment here for fetch+merge
 /**
  *
- * @author kchah
+ * @author kchahal
  */
 import java.util.*;
 import java.util.Scanner;
