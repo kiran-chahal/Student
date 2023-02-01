@@ -13,7 +13,7 @@ import java.util.Scanner;
 public class ReverseWord {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
-        
+        //hi kiran
         System.out.println("enter a word: ");
         String word = input.nextLine();
         
